@@ -8,4 +8,4 @@ jobs:
 
     steps:
     - name: Print a Message
-      run: echo "Hello, Github Actiobns?"
+      run: echo "Hello, Github Actions?"
